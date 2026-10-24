@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "net.ifwl.licence",
+    "sha256_cert_fingerprints": ["94:8F:87:54:29:E4:E9:EE:B1:8D:95:3F:D1:AE:F9:84:80:24:B4:65:7F:14:C9:38:D1:C8:1D:3F:C6:70:8A:79"]
+  }
+}]
